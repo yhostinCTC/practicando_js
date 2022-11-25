@@ -1,0 +1,19 @@
+.Contenedor{
+    background-color: bisque;
+    text-align: center;
+}
+
+#TituloUnico1{
+    font-weight: 800;
+    color: brown;
+}
+
+#ParrafoUnico2{
+    font-weight: 600;
+    color: turquoise;
+}
+
+.textogenerico{
+    color: blue;
+    font-size: 18px;
+}
